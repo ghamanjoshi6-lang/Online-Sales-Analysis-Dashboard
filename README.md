@@ -82,13 +82,6 @@ It highlights how **Power BI** transforms raw data into **meaningful insights** 
 > It includes various visualizations such as bar charts, donut charts, and line graphs to analyze performance across  
 > **states, categories, customers, and payment modes**.
 
----
-
-
-
-- 
-
----
 
 
 
